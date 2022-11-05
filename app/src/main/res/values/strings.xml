@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Database</string>
+    <string name="Name">Name</string>
+    <string name="Surname">Surname</string>
+    <string name="Age">Age</string>
+    <string name="Field_of_study">Field of study</string>
+    <string name="Year_of_study">Year of study</string>
+    <string name="Average_from_studies">Average from studies</string>
+    <string name="ID">ID</string>
+    <string name="MODIFY">MODIFY</string>
+    <string name="AVERAGE_OF_GRADES">AVERAGE OF GRADES</string>
+    <string name="DELETE">DELETE</string>
+    <string name="ADD">ADD</string>
+    <string name="FIND">FIND</string>
+    <string name="CLEAR">CLEAR</string>
+    <string name="SHOW_ALL">SHOW ALL</string>
+    <string name="TOAST">TOAST</string>
+    <string name="Result_of_operation">RESULT OF OPERATION</string>
+    <string name="Successfully_deleted_that_student">Successfully deleted that student</string>
+    <string name="There_is_no_such_student">There is no such student</string>
+    <string name="Students_database">Students database</string>
+
+
+</resources>

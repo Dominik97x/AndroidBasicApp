@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Datenbank</string>
+    <string name="Name">Name</string>
+    <string name="Surname">Bezeichnung</string>
+    <string name="Age">Alter</string>
+    <string name="Field_of_study">Studienrichtung</string>
+    <string name="Year_of_study">Studienjahr</string>
+    <string name="Average_from_studies">Ein College-Schnitt</string>
+    <string name="ID">ID</string>
+    <string name="MODIFY">ändern</string>
+    <string name="AVERAGE_OF_GRADES">Notendurchschnitt</string>
+    <string name="DELETE">löschen</string>
+    <string name="ADD">hinzufügen</string>
+    <string name="FIND">Finden Sie</string>
+    <string name="CLEAR">klar</string>
+    <string name="SHOW_ALL">anzeigen</string>
+    <string name="TOAST">TOAST</string>
+    <string name="Result_of_operation">Ergebnis der Operation</string>
+    <string name="Successfully_deleted_that_student">Ein Student wurde erfolgreich entfernt</string>
+    <string name="There_is_no_such_student">Es gibt keinen solchen Studenten</string>
+    <string name="Students_database">Studenten-Datenbank</string>
+</resources>

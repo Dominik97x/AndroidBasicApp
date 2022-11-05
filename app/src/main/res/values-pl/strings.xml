@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Baza danych</string>
+    <string name="Name">Imię</string>
+    <string name="Surname">Nazwisko</string>
+    <string name="Age">Wiek</string>
+    <string name="Field_of_study">Kierunek</string>
+    <string name="Year_of_study">Rok studiów</string>
+    <string name="Average_from_studies">Srednia ze studiow</string>
+    <string name="ID">ID</string>
+    <string name="MODIFY">ZMIEN</string>
+    <string name="AVERAGE_OF_GRADES">SREDNIA OCEN</string>
+    <string name="DELETE">USUN</string>
+    <string name="ADD">DODAJ</string>
+    <string name="FIND">ZNAJDZ</string>
+    <string name="CLEAR">WYCZYSC</string>
+    <string name="SHOW_ALL">POKAZ</string>
+    <string name="TOAST">TOAST</string>
+    <string name="Result_of_operation">WYNIK OPERACJI</string>
+    <string name="Successfully_deleted_that_student">Pomyslnie usunieto studenta</string>
+    <string name="There_is_no_such_student">Nie ma takiego studeenta</string>
+    <string name="Students_database">Baza danych studentów</string>
+</resources>
